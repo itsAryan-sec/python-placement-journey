@@ -1,2 +1,6 @@
-# python-placement-journey
-Documenting my daily Python, DSA, and placement preparation journey.
+# Python Placement Journey
+
+This repository contains my Python learning and placement preparation.
+
+## Author
+- Aryan Gupta
