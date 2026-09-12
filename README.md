@@ -1,6 +1,23 @@
 # Python Placement Journey
 
-This repository contains my Python learning and placement preparation.
+Learning Python from scratch for placement preparation.
 
-## Author
-- Aryan Gupta
+## Progress
+
+- [x] Day 01 – Basics
+- [x] Day 02 – Variables, Input, Type Casting
+- [ ] Day 03 – Strings
+- [ ] Day 04 – String Methods
+- [ ] Day 05 – Escape Sequences & print()
+- [ ] Day 06 – Conditional Statements
+- [ ] Day 07 – Loops
+- [ ] Day 08 – Functions
+- [ ] Day 09 – Lists
+- [ ] Day 10 – List Methods
+
+## Repository Structure
+
+```text
+Day-01/
+Day-02/
+```
