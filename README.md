@@ -6,9 +6,9 @@ Learning Python from scratch for placement preparation.
 
 - [x] Day 01 – Basics
 - [x] Day 02 – Variables, Input, Type Casting
-- [ ] Day 03 – Strings
+- [x] Day 03 – Strings
 - [ ] Day 04 – String Methods
-- [ ] Day 05 – Escape Sequences & print()
+- [ ] Day 05 – Escape Sequences & `print()`
 - [ ] Day 06 – Conditional Statements
 - [ ] Day 07 – Loops
 - [ ] Day 08 – Functions
@@ -20,4 +20,5 @@ Learning Python from scratch for placement preparation.
 ```text
 Day-01/
 Day-02/
+Day-03/
 ```
