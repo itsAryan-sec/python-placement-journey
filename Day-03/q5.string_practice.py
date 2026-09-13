@@ -1,0 +1,6 @@
+word=input("Enter your word:")
+print("The word is:",word)
+print("The first letter of word is:",word[0])
+print("The last letter of word is:",word[-1])
+print("The first three letter of word is:",word[0:3])
+print("The length of word is:",len(word))
