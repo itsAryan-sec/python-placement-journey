@@ -10,7 +10,7 @@ Learning Python from scratch for placement preparation.
 - [x] Day 04 – String Methods
 - [x] Day 05 – Escape Sequences & `print()`
 - [x] Day 06 – Conditional Statements
-- [ ] Day 07 – Functions
+- [x] Day 07 – Functions
 - [ ] Day 08 – Loops
 - [ ] Day 09 – Lists
 - [ ] Day 10 – List Methods
