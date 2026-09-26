@@ -11,7 +11,7 @@ Learning Python from scratch for placement preparation.
 - [x] Day 05 – Escape Sequences & `print()`
 - [x] Day 06 – Conditional Statements
 - [x] Day 07 – Functions
-- [ ] Day 08 – Loops
+- [x] Day 08 – Loops
 - [ ] Day 09 – Lists
 - [ ] Day 10 – List Methods
 
