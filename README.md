@@ -12,7 +12,7 @@ Learning Python from scratch for placement preparation.
 - [x] Day 06 – Conditional Statements
 - [x] Day 07 – Functions
 - [x] Day 08 – Loops
-- [ ] Day 09 – Lists
+- [x] Day 09 – Lists
 - [ ] Day 10 – List Methods
 
 ## Repository Structure
