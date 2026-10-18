@@ -13,7 +13,7 @@ Learning Python from scratch for placement preparation.
 - [x] Day 07 – Functions
 - [x] Day 08 – Loops
 - [x] Day 09 – Lists
-- [ ] Day 10 – List Methods
+- [x] Day 10 – List Methods
 
 ## Repository Structure
 
