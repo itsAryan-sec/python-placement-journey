@@ -14,7 +14,7 @@ Learning Python from scratch for placement preparation.
 - [x] Day 08 – Loops
 - [x] Day 09 – Lists
 - [x] Day 10 – List Methods
-
+- [x] Day 11 - Tuples
 ## Repository Structure
 
 ```text
@@ -27,5 +27,6 @@ Day-06/
 Day-07/
 Day-08/
 Day-09/
-Day-10/ 
+Day-10/
+Day-11/  
 ```
